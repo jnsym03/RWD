@@ -158,8 +158,8 @@ section .content {
   section {
     margin: 0;
     height: 50vh;
-/*     background-position: center 25%; */
-     background-size: auto 100%;
+    background-position: center center;
+    /* background-size: auto 100%; */
     
     .content p {
       font-size: 15px;
