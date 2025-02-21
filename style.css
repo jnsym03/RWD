@@ -177,6 +177,7 @@ section .content {
 
   h2 {
     font-size: 1rem;
+    padding-bottom: 0px;
   }
   
 }
